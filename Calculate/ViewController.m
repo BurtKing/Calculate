@@ -37,7 +37,7 @@
     NSString * str=@"se00001-12-1";
     NSArray *array = [str componentsSeparatedByCharactersInSet:[NSCharacterSet characterSetWithCharactersInString:@"--"]];
     
-    NSLog(@"!!!!!!!!!!!!!    %@",array);
+    NSLog(@"!!!!!!!!    %@",array);
     
     
     
